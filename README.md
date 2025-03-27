@@ -1,3 +1,3 @@
 # project
-first repository
+first repository.
 author- ayushman
